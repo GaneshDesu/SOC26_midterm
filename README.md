@@ -1,4 +1,4 @@
-# SOC-25 Project 139 – Competitive Programming
+# SOC-26 Project – Competitive Programming
 
 ## About the Project
 
